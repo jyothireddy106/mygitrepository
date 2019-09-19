@@ -1,1 +1,2 @@
-this is to usethe git command fork
+this is to use the git command fork
+. Git fork is a concept of using someone's project as astart point for your or to propose changes for someone's project
